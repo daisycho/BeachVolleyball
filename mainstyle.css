@@ -1,0 +1,71 @@
+@charset "utf-8";
+body nav a {
+	border-width: thick;
+	color: #1B0AFB;
+	text-decoration: none;
+	font-size: large;
+	margin: 0;
+	text-transform: uppercase;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-weight: lighter;
+}
+body header {
+	float: none;
+	vertical-align: 17em;
+	font-size: xx-large;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-width: medium;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 600;
+	text-align: left;
+	line-height: 5ex;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	color: #0427D3;
+	background-color: #FBDCA4;
+}
+body {
+	background-attachment: scroll;
+	background-image: url(sand.jpg);
+}
+
+body h3 {
+	vertical-align: middle;
+	font-size: xx-large;
+	text-shadow: 0px 0px #655FED;
+	border-color: #F1AD57;
+	background-color: #81DAD1;
+	text-align: center;
+	border-width: thick;
+	padding: 3em;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	color: #9E6969;
+}
+body h2{
+	vertical-align: middle;
+	font-size: xx-large;
+	text-align: center;
+	border-width: thick;
+	background-color: #74D7CC;
+
+}
+body nav {
+	text-indent: 16px;
+	background-color: #15DCED;
+	background-origin: border-box;
+	border-width: thick;
+	border-style: none;
+}
+body p {
+	background-color: #FFFFFF;
+	font-size: large;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border-radius: 20;
+	white-space: normal;
+	margin:2em;
+	padding: 1em;
+}
+body img {
+}
